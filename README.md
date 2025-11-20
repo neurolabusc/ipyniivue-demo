@@ -8,8 +8,8 @@ Usage:
 git clone https://github.com/neurolabusc/ipyniivue-demo.git
 cd ipyniivue-demo
 pip install -r requirements.txt
-jupyter notebook
-# open demo.ipynb
+jupyter lab 
+# open basic.ipynb notebook
 ```
 
 The notebook contains several ipynb files (notebooks) that you can run to see NiiVue's capabilities and interactively adapt for your needs.
